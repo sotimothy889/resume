@@ -28,10 +28,10 @@
 
   +1 (607) 279-9042 |
   #link("mailto:timothyso888@gmail.com")[timothyso888\@gmail.com] |
-  #link("mailto:ps2298@cornell.edu")[ps2298\@cornell.edu] |
-  Ithaca, NY \
-  #link("https://github.com/sotimothy889")[https://github.com/sotimothy889] |
-  #link("https://www.linkedin.com/in/timothy-so-pak-yin")[https://www.linkedin.com/in/timothy-so-pak-yin]
+  // #link("mailto:ps2298@cornell.edu")[ps2298\@cornell.edu] |
+  // Ithaca, NY |
+  #link("https://github.com/sotimothy889")[github.com/sotimothy889] |
+  #link("https://www.linkedin.com/in/timothy-so-pak-yin")[linkedin.com/in/timothy-so-pak-yin]
 ])
 
 
@@ -54,7 +54,7 @@
   left: [*Cherrypicks Ltd* #sym.dash _Intern_],
   right: [Aug 2025 - Aug 2025]
 )
-- Shadowed Sr VP in development of customer support chatbot for Broadway (electronics retailer).
+- Shadowed Senior VP in development of customer support chatbot for Broadway (electronics retailer).
 - Researched and prototyped retrieval-augmented generation and LoRA finetuning pipelines in LLMs.
 
 #leftRight(
@@ -116,3 +116,4 @@
 = Skills
 *Languages:* Java, Kotlin, TypeScript, Python, HTML/CSS, C++, Rust \
 *Frameworks/libraries:* React, Flask, NumPy, Jetpack Compose \
+#v(1fr)
